@@ -8,6 +8,7 @@ for(let i=0; i<tabHeaders.length; i++){
     document.querySelector(".tabs .tab-content > .active").classList.remove("active");
     tabContents[i].classList.add("active");
     })
+    
 }
 
 
